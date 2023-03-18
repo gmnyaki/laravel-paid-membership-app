@@ -75,19 +75,15 @@ The project is structured according to Laravel's conventions:
 **resources/views**: Contains the views for the application.  
 **routes/web.php**: Contains the routes for the application.
 
-## Contributing  
-If you would like to contribute to this project, please fork the repository and submit a pull request.
-
 ## Concepts
-This a simple project demonstrates how to implement the Payment Intents API for Stripe payments.
 For Installing and setting up the stripe library, setting up service provider and storing Api keys securely in app visit the following files.
 **app\providers\stripeServiceProvider.php**
 **app\config\stripe**
 **.env**   
 Using Stripe Payment Intents for:    
-**Automatic authentication handling.**
-**No double charges.**
-**Strong customer Authentication.**  
+**Automatic authentication handling.**   
+**No double charges.**   
+**Strong customer Authentication.**   
 Setting up payment Intent See:
 **app\Http\Controllers\Member\PaymentController**
 Webhooks : Public URL for your local Stripe webhook endpoint, which makes it easier to test and debug your webhook endpoints.
@@ -99,6 +95,9 @@ Prevent members from landing on payment page if already paid.
 Protecting double charges 
 **App\Http\Middleware\RedirectIfPaid**
 **App\Http\Controllers\PaymentController**   
+
+## Contributing  
+If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Demo images 
 ![login demo](https://user-images.githubusercontent.com/25588619/223938765-65ccc3e8-946d-4828-bb20-839b133095a4.JPG)
