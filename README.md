@@ -89,7 +89,8 @@ Setting up payment Intent See:
 Webhooks : Public URL for your local Stripe webhook endpoint, which makes it easier to test and debug your webhook endpoints.   
 **app\Http\Controllers\StripeWebhookController.php**   
 
-##Security
+## Security   
+
 Protecting our open stripe webhook by verifying that when we send the request its only coming from Stripe using signing secret.
 Prevent members from landing on payment page if already paid.
 Protecting double charges 
