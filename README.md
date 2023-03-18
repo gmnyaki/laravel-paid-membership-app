@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/25588619/226087974-4581e5e4-e0df-46ad-8ac1-5180475d9065.png)   
+
 # laravel-paid-membership-app
 A one-time premium membership payment application using Stripe Payment Intents API
 ## Overview 
