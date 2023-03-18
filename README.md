@@ -101,7 +101,7 @@ Protecting double charges.
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Demo images 
-![login demo](https://user-images.githubusercontent.com/25588619/223938765-65ccc3e8-946d-4828-bb20-839b133095a4.JPG)
+![image](https://user-images.githubusercontent.com/25588619/226086288-467169d8-5f59-4058-bde0-1f352aed8f38.png)   
 ![register demo](https://user-images.githubusercontent.com/25588619/223938794-26032821-ef44-42c5-8042-18a95961967f.JPG)
 ![Readme cover](https://user-images.githubusercontent.com/25588619/223936736-69822b57-2b8b-4a73-80b4-05208ca9b0c6.JPG)
 
