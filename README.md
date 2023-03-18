@@ -13,6 +13,7 @@ To run this project, you will need the following software installed on your syst
 - MySQL 5.7 or higher
 - Composer
 - Laravel 8
+- Expose 2.0 or higher
 
 ## Installation
 To install and run this project on your system, follow these steps:
@@ -58,6 +59,10 @@ php artisan migrate
 8. Start the development server:
 ```
 php artisan serve
+```
+9. Install expose - To connect your local application to HTTPS endpoint to receive webhook from Stripe   
+```
+composer global require beyondcode/expose
 ```
 ## Usage
 To use the application, open a web browser and navigate to the URL(http://memberpass.test) displayed in the terminal when you started the development server. You will see a login or register. First, register an account to be able to pay for a membership. Once an account is created successfully, you will be redirected to a dashboard, from here you will see a link to members area. If not paid, you will be redirected to a payment page to make a one-time membership payment. Once you make a payment, you will have access to members page.   
