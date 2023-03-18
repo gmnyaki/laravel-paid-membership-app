@@ -84,7 +84,7 @@ Using Stripe Payment Intents for:
 **Automatic authentication handling.**   
 **No double charges.**   
 **Strong customer Authentication.**   
-Setting up payment Intent See:
+Setting up payment Intent See:   
 **app\Http\Controllers\Member\PaymentController**
 Webhooks : Public URL for your local Stripe webhook endpoint, which makes it easier to test and debug your webhook endpoints.
 **app\Http\Controllers\StripeWebhookController.php**   
