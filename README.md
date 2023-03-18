@@ -101,9 +101,10 @@ Protecting double charges.
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Demo images 
-![image](https://user-images.githubusercontent.com/25588619/226086288-467169d8-5f59-4058-bde0-1f352aed8f38.png)   
-![register demo](https://user-images.githubusercontent.com/25588619/223938794-26032821-ef44-42c5-8042-18a95961967f.JPG)
-![Readme cover](https://user-images.githubusercontent.com/25588619/223936736-69822b57-2b8b-4a73-80b4-05208ca9b0c6.JPG)
+![image](https://user-images.githubusercontent.com/25588619/226086365-e4526603-5b21-44da-af97-2c8c92cb03bc.png)         
+![image](https://user-images.githubusercontent.com/25588619/226086413-02026e99-ed8e-48e6-87a6-8d717b0c603d.png)   
+![image](https://user-images.githubusercontent.com/25588619/226087118-8929f7e2-1521-46e8-97cd-250086ca6265.png)   
+![image](https://user-images.githubusercontent.com/25588619/226087184-268e8792-5518-4ca5-9b06-be34d8272865.png)   
 
 
 ## License
