@@ -91,11 +91,11 @@ Webhooks : Public URL for your local Stripe webhook endpoint, which makes it eas
 
 ## Security   
 
-Protecting our open stripe webhook by verifying that when we send the request its only coming from Stripe using signing secret.
-Prevent members from landing on payment page if already paid.
-Protecting double charges 
-**App\Http\Middleware\RedirectIfPaid**
-**App\Http\Controllers\PaymentController**   
+Protecting our open stripe webhook by verifying that when we send the request its only coming from Stripe using signing secret.   
+Prevent members from landing on payment page if already paid.   
+Protecting double charges.    
+**App\Http\Middleware\RedirectIfPaid**   
+**App\Http\Controllers\PaymentController**      
 
 ## Contributing  
 If you would like to contribute to this project, please fork the repository and submit a pull request.
