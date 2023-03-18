@@ -3,7 +3,7 @@ A one-time premium membership payment application using Stripe Payment Intents A
 ## Overview 
 This project demonstrates how to implement Stripe Payment Intents API to handle payment flows. It tracks a payment from creation through checkout, and triggers additional authentication steps when required. In addition, it uses the Model-View-Controller (MVC) pattern using PHP and Laravel.
 
-In this project, I have created a simple application that allows users to create and account, login and make a one-time membership payment via Stripe. The user information is stored in a MySQL database, and Laravel's Eloquent ORM is used to interact with the database.
+In this project, I have created a simple application that allows users to register for an account, login and make a one-time membership payment via Stripe. The user information is stored in a MySQL database, and Laravel's Eloquent ORM is used to interact with the database.
 
 ## Requirements
 
